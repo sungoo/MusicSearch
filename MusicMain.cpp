@@ -1,4 +1,4 @@
-#include "../../psulib/stdafx.h"
+#include "stdafk.h"
 #include "MusicManager.h"
 
 int main() {

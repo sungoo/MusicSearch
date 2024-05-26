@@ -1,5 +1,5 @@
 #pragma once
-#include "../../psulib/stdafx.h"
+#include "stdafk.h"
 #include "Music.h"
 
 typedef list<Music>::iterator MIT;

@@ -1,5 +1,5 @@
 #pragma once
-#include "../../psulib/stdafx.h"
+#include "stdafk.h"
 
 class Music
 {
